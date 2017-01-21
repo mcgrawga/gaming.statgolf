@@ -1,0 +1,47 @@
+/*table
+{
+	border-collapse:collapse;
+}
+
+
+table,th, td
+{
+	border: 1px solid black;
+}
+
+
+td
+{
+	padding:15px;
+}
+
+
+th
+{
+	padding:15px;
+}
+
+H1
+{
+	color:#353535;
+}
+
+
+Body
+{
+	color:#353535;
+}
+
+
+.SmallFont {
+	font-size: 11px;
+	color: gray;
+}
+*/
+h3 span { font-size:14px; color:gray}
+
+Body
+{
+	padding-left: 25px;
+	padding-right: 25px;
+}

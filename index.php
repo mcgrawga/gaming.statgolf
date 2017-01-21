@@ -1,0 +1,6 @@
+<?
+include 'functions.php';
+DisplayGeneralPublicHeader();
+?>
+
+
